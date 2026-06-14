@@ -1,6 +1,6 @@
 # Hi, I'm Ashutosh Bansal 👋
 
-🎓 CS Student | Delhi, India
+🎓 CS Student | Greator Noida, India
 💻 Building real-world projects with Python & React
 🔗 [LinkedIn](www.linkedin.com/in/ashutosh-bansal-04de)
 
