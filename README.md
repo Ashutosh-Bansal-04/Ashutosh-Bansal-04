@@ -2,7 +2,7 @@
 
 🎓 CS Student | Greator Noida, India
 💻 Building real-world projects with Python & React
-🔗 [LinkedIn](www.linkedin.com/in/ashutosh-bansal-04de)
+🔗 [LinkedIn](www.linkedin.com/in/meashutoshbansal)
 
 ---
 
