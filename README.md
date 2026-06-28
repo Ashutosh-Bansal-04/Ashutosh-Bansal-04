@@ -18,7 +18,6 @@ Always learning, always building.
 
 | Project | Description | Tech |
 |---|---|---|
-| [Animohub Studio](https://github.com/Ashutosh-Bansal-04/Animohub) | Agency landing page for Animohub Studio — showcasing services like lead generation, video editing & creative solutions | React, CSS |
 | [GoogleMaps Lead Scraper](https://github.com/Ashutosh-Bansal-04/GoogleMaps_Lead_Scraper) | Automates Google Maps searches to extract business leads — name, address, phone & website | Python |
 
 ## 🛠️ Tech Stack
